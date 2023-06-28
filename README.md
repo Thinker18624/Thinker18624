@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**Thinker18624/Thinker18624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Web Development 
+- 🔭 I’mking on WebDevelopment 
 - 🌱 I’m currently learning Phyton and AI...
 - 👯 I’m looking to collaborate on Web Techa...
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: thinkerb429@gmail.com
+- 🤔 I’m looking for help wi
+- 💬 Ask me about ..
+- 📫 How to reach me: thinkerb429@gmail.c
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 # 💫 About Me:
@@ -36,5 +32,4 @@ Web Development and IOS Development
 ---
 [![](https://visitcount.itsvg.in/api?id=Thinker18624&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
