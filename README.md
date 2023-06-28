@@ -1,17 +1,10 @@
-### Hi there 👋
-
-
-- 🔭 I’mking on WebDevelopment 
+# 💫 About Me:
+-I'm working on Web Development and IOS Development 
 - 🌱 I’m currently learning Phyton and AI...
 - 👯 I’m looking to collaborate on Web Techa...
-- 🤔 I’m looking for help wi
-- 💬 Ask me about ..
-- 📫 How to reach me: thinkerb429@gmail.c
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-# 💫 About Me:
-Web Development and IOS Development 
-
+- 🤔 I’m looking for help anything about web programming.
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: thinkerb429@gmail.com
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Thinker254) 
