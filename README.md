@@ -1,5 +1,5 @@
 # 💫 About Me:
--    I'm working on Web Development and IOS Development 
+- 💻 I'm working on Web Development and IOS Development 
 - 🌱 I’m currently learning Phyton and AI...
 - 👯 I’m looking to collaborate on Web Techa...
 - 🤔 I’m looking for help anything about web programming.
