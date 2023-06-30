@@ -1,4 +1,8 @@
 # 💫 About Me:
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thinker18624" alt="thinker18624" /></a> </p>
+
+
 - 💻 I'm working on Web Development and IOS Development 
 - 🌱 I’m currently learning Phyton and AI...
 - 👯 I’m looking to collaborate on Web Techa...
