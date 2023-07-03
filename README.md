@@ -37,5 +37,5 @@
 [![](https://visitcount.itsvg.in/api?id=Thinker18624&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AFF37&width=435&lines=Stay+tuned🤑+creating+something+awesome.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AFF37&width=435&lines=Follow🙄+and+stay+tuned🤑.+)](https://git.io/typing-svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
