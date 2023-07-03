@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AFF37&width=435&lines=I'm+Thinker+a+passionate+Fullstack+developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AFF37&width=435&lines=I'm+Thinker+a+Fullstack+developer+)](https://git.io/typing-svg)
 
 <h3 align="center">GitHub Trophies</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thinker18624" alt="thinker18624" /></a> </p>
