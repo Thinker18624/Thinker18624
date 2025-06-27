@@ -1,82 +1,72 @@
 # 💫 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AFF37&width=435&lines=Hi,+I'm+Thinker+😎+a+Full-Stack+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF4F2&center=true&width=435&lines=Hi,+I'm+Thinker+😎+Full-Stack+Developer)](https://git.io/typing-svg)
 
-I'm a passionate developer focused on building high-quality web and mobile solutions. I thrive on learning new technologies and collaborating with other creatives in the tech space.
+I'm a passionate and curious developer focused on building responsive and user-centric web and mobile applications. I love collaborating with fellow tech enthusiasts and continuously learning new tools and frameworks.
 
 ---
 
 ## 🚀 Current Focus
 
-- 💻 Web Development (MERN Stack, PHP, Django)
-- 📱 iOS Development (Still exploring)
-- 🤖 Learning Python & Artificial Intelligence
-- 🧠 Always open to collaboration and mentorship
+- 💻 Full-Stack Web Development (MERN, Django)
+- 📱 iOS Development (in progress)
+- 🤖 Python & Artificial Intelligence
+- 🤝 Collaborating on open source & freelance projects
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Connect with Me
 
-- Email: **thinkerb429@gmail.com**
-- Twitter: [@thinker254](https://twitter.com/thinker254)
-- Instagram: [@vincenttux](https://instagram.com/vincenttux)
-- Facebook: [Thinker Wa Ithanga](https://facebook.com/thinker.waithanga)
-
-<p align="left">
-  <a href="https://twitter.com/thinker254" target="_blank"><img src="https://img.shields.io/twitter/follow/thinker254?logo=twitter&style=for-the-badge" alt="thinker254" /></a>
-</p>
+[![Email](https://img.shields.io/badge/Gmail-Thinkerb429@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thinkerb429@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@thinker254-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thinker254)
+[![Instagram](https://img.shields.io/badge/Instagram-@vincenttux-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vincenttux)
+[![Facebook](https://img.shields.io/badge/Facebook-Thinker%20Wa%20Ithanga-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thinker.waithanga)
 
 ---
 
-## 🛠️ Languages and Tools
+## 🧠 Languages & Tools
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
-</p>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)]()
+[![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)]()
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Thinker18624&theme=radical&margin-w=10&no-frame=true" alt="thinker18624 trophies"/>
-  </a>
-</p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Thinker18624&theme=gruvbox&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Thinker18624&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Thinker18624&theme=hacker)](https://git.io/streak-stats)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinker18624&theme=radical&hide_border=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thinker18624&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinker18624&theme=radical&layout=compact&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Thinker18624&theme=hacker&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 📌 Top Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=Thinker18624&limit=5&theme=radical&combine_all_yearly_contributions=true)
+[![Top Repos](https://github-contributor-stats.vercel.app/api?username=Thinker18624&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/Thinker18624)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Thinker18624&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Thinker18624&icon=5&color=0)](https://visitcount.itsvg.in)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AFF37&width=435&lines=Follow+for+more+tech+content!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF4F2&center=true&width=435&lines=Thanks+for+visiting!+Follow+for+more+😄)](https://git.io/typing-svg)
 
-<!-- Proudly customized by Thinker using GPRM -->
+<!-- Custom-designed with ❤️ by Thinker -->
