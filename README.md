@@ -1,36 +1,80 @@
-# 💫 About Me
+<!-- Professional GitHub README (2025 Edition) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF4F2&center=true&width=435&lines=Hi,+I'm+Thinker+😎+Full-Stack+Developer)](https://git.io/typing-svg)
+<h1 align="center">Hi, I'm Thinker 👨‍💻</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | iOS Learner</h3>
 
-I'm a passionate and curious developer focused on building responsive and user-centric web and mobile applications. I love collaborating with fellow tech enthusiasts and continuously learning new tools and frameworks.
-
----
-
-## 🔥 Tech Highlights (NEW ✨)
-
-🌐 **Web Tech**: HTML, CSS, JavaScript, React, Node.js, Express  
-🧠 **AI Explorer**: Python, AI APIs, Chatbots  
-📱 **Mobile Curious**: Learning Swift & iOS Dev  
-🛠 **Toolchain**: VS Code, Figma, GitHub Actions, Postman  
-🎨 **Design Skills**: Adobe XD, Photoshop
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Delivering+clean%2C+scalable+code+for+real-world+impact.;Full-Stack+Engineer+building+modern+web+%26+AI-powered+solutions.;Let%E2%80%99s+build+something+that+makes+a+difference." alt="Typing animation" />
+</p>
 
 ---
 
-## ✨ GitHub Activity Graph (NEW)
+### 👨‍💼 About Me
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Thinker18624&bg_color=000000&color=00ffff&line=00ffcc&point=ffffff&area=true&hide_border=true)
+I'm a **results-driven Full-Stack Developer** with a strong background in web, mobile, and AI technologies. I specialize in building high-impact digital products that are scalable, responsive, and user-focused.
+
+✅ 5+ years experience delivering full-stack web apps & internal tools  
+✅ Strong in **JavaScript**, **TypeScript**, **React**, **Node.js**, **Python**, and **Django**  
+✅ Exploring **iOS development** with **Swift** and **SwiftUI**  
+✅ Integrating AI (OpenAI/GPT APIs) into real-world web products  
+✅ Passionate about clean architecture, API design, and performance optimization
+
+🎯 **Currently seeking roles** in product-focused teams solving meaningful problems through software.
 
 ---
 
-## 📌 Dev Card (NEW: Interactive Profile)
+### 🧰 Tech Stack
 
-[![Dev Card](https://api.daily.dev/devcards/2e0641c2d6074fdca3bbbd2a80d5d20a.png?r=ndx)](https://app.daily.dev/Thinker18624)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,python,django,mongodb,mysql,swift,git,github,docker,figma" />
+</p>
 
 ---
 
-## 💼 Open Source Contributions (NEW)
+### 📊 GitHub Stats
 
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%92%96-blue?style=for-the-badge)](https://github.com/Thinker18624?tab=repositories&q=&type=public&language=&sort=stargazers)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thinker18624&theme=radical&show_icons=true&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thinker18624&theme=radical&layout=compact&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Thinker18624&theme=highcontrast&hide_border=true&ring=DD2727&fire=DD2727" width="98%" />
+</p>
+
+---
+
+### 📈 Contribution Heatmap
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Thinker18624&theme=dracula&hide_border=true)
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:thinkerb429@gmail.com"><img src="https://img.shields.io/badge/Email-thinkerb429@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Thinker254"><img src="https://img.shields.io/badge/LinkedIn-Thinker254-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/thinker254"><img src="https://img.shields.io/badge/Twitter-@thinker254-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/vincenttux"><img src="https://img.shields.io/badge/Instagram-@vincenttux-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 📌 Quick Highlights
+
+- 🧠 Open to freelance or full-time work (remote/hybrid)
+- 📍 Based in Kenya (available globally)
+- 🌍 Passionate about building for the web, open source, and AI ethics
+- 🧩 Always learning — currently exploring Rust, SwiftUI, and LangChain
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F7FF&center=true&width=600&lines=Thanks+for+visiting!+Let’s+connect+%26+build+something+awesome+💼" />
+</p>
+
+<!-- END OF PROFESSIONAL README -->
 
 ---
 
