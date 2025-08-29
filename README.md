@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AFF37&width=435&lines=Vincent+Here😎+a+Fullstack+developer.+)](https://git.io/typing-svg)
 
 <h2 align="center">GitHub Trophies</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=vin-devs&theme=onedark)](https://github.com/vin-devs/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=vin-devs)
 
 - 📫 Reach me: [vmutuku706@gmail.com](mailto:vmutuku706@gmail.com)
 
