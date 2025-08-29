@@ -1,17 +1,10 @@
  💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AFF37&width=435&lines=Vincent+Here😎+a+Fullstack+developer.+)](https://git.io/typing-svg)I love building tools that make life easier and exploring open-source projects.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AFF37&width=435&lines=Vincent+Here😎+a+Fullstack+developer.+)](https://git.io/typing-svg)
 
 <h2 align="center">GitHub Trophies</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vin-devs" alt="vin-devs" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/thinker254" target="blank"><img src="https://img.shields.io/twitter/follow/thinker254?logo=twitter&style=for-the-badge" alt="thinker254" /></a> </p>
-
-
-- 💻 I'm working on Web Development(React, Vue.js, Node.js)
-- 🌱 I’m currently React, Vue.js, and modern frontend frameworks and also Phyton and AI...
-- 👯 I’m looking to collaborate On web tech projects or open-source initiatives.
-- 💬 Ask me about Web Development,JavaScript, React, Vue.js, or building responsive UIs.
 - 📫 Reach me: [vmutuku706@gmail.com](mailto:vmutuku706@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
@@ -48,9 +41,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=vin-devs&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AFF37&width=435&lines=Keep+following🙄.+)](https://git.io/typing-svg)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -- CUSTOMIZE it LIKe Master/Professional
 
