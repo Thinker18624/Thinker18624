@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AFF37&width=435&lines=Vincent+Here😎+a+Fullstack+developer.+)](https://git.io/typing-svg)
 
+<h3>💻 Frontend & Backend Developer (Learning Full-Stack) | Android Enthusiast | From Kenya</h3> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vin-devs&label=Profile%20views&color=0e75b6&style=flat" alt="vin-devs" /> </p>
 
 - 📫 Reach me: [vmutuku706@gmail.com](mailto:vmutuku706@gmail.com)
